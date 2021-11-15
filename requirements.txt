@@ -34,7 +34,7 @@ MongoAlchemy==0.19
 more-itertools==5.0.0
 openpyxl==2.5.12
 parsedatetime==2.4
-pip==18.1
+pip==21.1
 pluggy==0.8.0
 py==1.7.0
 pylint==2.2.2
